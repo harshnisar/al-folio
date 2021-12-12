@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Notes on developing an algorithmic projects in the Indian Government"
 categories:
   - Blog
