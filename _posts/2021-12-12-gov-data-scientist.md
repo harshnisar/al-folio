@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Does Your Government Department Really Need a Data Scientist? Probably No."
+date: 2021-12-12
+description: Choosing pathways for public sector to leverage emerging technologies.
 categories:
   - Blog
 tags:
