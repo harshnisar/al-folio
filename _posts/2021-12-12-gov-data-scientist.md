@@ -52,7 +52,7 @@ For technical buy-in, the team sits with the Department's NIC and remains under 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/DIU_Organogram.png title: "Organogram of proposed common data science team" class: "img-fluid rounded z-depth-1" %}
+        {% responsive_image path: assets/img/DIU_Organogram.PNG title: "Organogram of proposed common data science team" class: "img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
