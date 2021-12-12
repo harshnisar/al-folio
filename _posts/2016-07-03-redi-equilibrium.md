@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Redi Equilibrium - Intervene or let it be?
 date: 2016-07-03T15:34:30-04:00
 categories:
