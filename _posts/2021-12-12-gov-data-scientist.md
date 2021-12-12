@@ -50,7 +50,15 @@ For one, the team is anchored to the Additional Secretary in the Ministry to whi
 
 For technical buy-in, the team sits with the Department's NIC and remains under the mentorship of the DDG, NIC which heads the NIC for our Ministry. NIC develops and maintains most of the division level MIS in our Ministry except for PMGSY and to some extent DDUGKY. 
 
-![image](https://harshnisar.github.com/assets/img/DIU_Organogram.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/DIU_Organogram.png title: "Organogram of proposed common data science team" class: "img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Organogram of proposed common data science team
+</div>
+
 
 
 I have to admit, a large part of why this team is also able to get some early wins since beginning is because of the existing relationships I was able to build within the Ministry over the last 5 years. This includes relationships not just with the bureaucrats, but more importantly with the technical and ops teams in the middle tier. Having had worked in the 2 of the schemes intimately also allowed us to scope a project really quick. The real test will be scoping projects for schemes I've had no context or relationships with. 
