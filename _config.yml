@@ -80,8 +80,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 blog_name: Notes # your blog must have a name for it to show up in the nav bar
-blog_description: 
-permalink: /blog/:year/:title/
+blog_description: Notings on governance, algorithms and techonology. Sumbitted please for your perusal and further action if any.
+permalink: /blog/:title/
 
 # Pagination
 pagination:
