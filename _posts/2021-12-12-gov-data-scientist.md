@@ -9,7 +9,7 @@ tags:
   - Government
 ---
 
-I know, this is contrary to what I've been tweeting or talking about. Don't get me wrong, I am a huge proponent of building in-house expertise for emerging technologies in the government. Over the last 5 years in the Ministry of Rural Development, I've played played the role of a solo data scientist in DDUGKY, PMGSY and now as the founder and lead for the ministry-wide Data & Insights Units. 
+I know, this is contrary to what I've been tweeting or talking about. Don't get me wrong, I am a huge proponent of building in-house expertise for emerging technologies in the government. Over the last 5 years in the Ministry of Rural Development, I've played the role of a solo data scientist in DDUGKY, PMGSY and now as the founder and lead for the ministry-wide Data & Insights Units. 
 
 Before I begin, I need to clarify what I mean by a data scientist given it remains a contextual definition. I'll differentiate them from data analysts in their ability to code and use algorithms, train ML models etc. I am assuming an analyst can do data analysis, create dashboards and visualizations. 
 
