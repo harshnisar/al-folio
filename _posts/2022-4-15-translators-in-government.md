@@ -23,7 +23,7 @@ While, I have personally decided being "inside" better fits my goals at the mome
 
 We can be translators. We can use our seat at the table to bring in the conversations happening outside. It's a powerful position with great responsibility. Not every conversation outside of the government is useful, some are problematic and all carry their own politics.  Not everything you read or learn about will or should have an audience within. But you understand the priorities within, the constraints and the vocabulary. You wait for the opportune moments to introduce conversations. You use those conversations to shape your everyday work. It can be as simple as sharing a news article in the many government WhatsApp groups you are part of, inviting people to talks, setting up and mediating collaborations or creating bullet-points from papers you've read for your superiors. Make both worlds understand each other. 
 
-> Listen. Be aware. Be interdisciplinary. Read. Engage. Filter. Package. Wait.  Use your seat at the table, be a translator.
+Listen. Be aware. Be interdisciplinary. Read. Engage. Filter. Package. Wait.  Use your seat at the table, be a translator.
 
 ---
 For more government micro-musings, you can check my [tweets](https://twitter.com/search?q=(%23sarkari)%20(from%3ANisarHogaya)&src=typed_query)!
