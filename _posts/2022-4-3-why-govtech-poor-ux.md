@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Noting #2: On Product Managers and Why UX in GovTech Ends Up Being a Good to Have"
+title: "Noting #2: Why Government Technology UX is Poor and the Role of Product Managers
 date: 2022-4-3
 description: On Product Management in Government and why Government Technology often has poor UX
 categories:
