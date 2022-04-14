@@ -2,7 +2,7 @@
 layout: post
 title: "Noting #3: On Being Translators in Government"
 date: 2022-4-15
-description: Limits of first-principles thinking and the role of translators bridging the outside and the inside in public sector.
+description: Limits of first principles thinking and the role of translators bridging the outside and the inside in public sector
 categories:
   - Blog
 tags:
