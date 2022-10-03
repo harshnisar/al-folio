@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://harshnisar.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://harshnisar.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-10-03T20:19:31+00:00</updated><id>https://harshnisar.github.io/feed.xml</id><title type="html">blank</title><subtitle>Harsh Nisar&apos;s Personal Blog. Sarkari thoughts and notings.
+</subtitle><entry><title type="html">Noting #3: On Being Translators in Government</title><link href="https://harshnisar.github.io/blog/translators-in-government/" rel="alternate" type="text/html" title="Noting #3: On Being Translators in Government" /><published>2022-04-14T00:00:00+00:00</published><updated>2022-04-14T00:00:00+00:00</updated><id>https://harshnisar.github.io/blog/translators-in-government</id><content type="html" xml:base="https://harshnisar.github.io/blog/translators-in-government/"><![CDATA[<p>There is often a disconnect when people ask me what my title is in the government and when I explain what it is that I really do. Engineering/data skills are my seat on the table but when I look back a lot of my most “useful” projects within the government have had little to do with those skills. Often, I am just using first-principles on problem statements.</p>
+
+<p>First-principles and having my heart at the right place helps work on a lot of low-hanging fruits. But there is a limit to first principles. They are appealing  but when you start working on meatier problems what seems like an obvious solution is often not. First principles are shaped by lived experiences. However much I’ve subdued the technocrat in me, it still comes out with a muffled voice. Everything is not simple or has an  elegant solution. Having your heart in the right place is subjective.  Some of the most problematic projects have been pursued by people who thought their heart was in the right place and they had the right intentions. Identifying problems within the government is easy, especially when you are new and have a fresh outlook. But one’s skill to detect problems easily shouldn’t lead to an overestimation of the ease of  solving them. There is only so much you know.</p>
+
+<p>While, I have personally decided being “inside” better fits my goals at the moment, there are many things the “outside” is better at. Against the paradox of government being slow, individually most days are about moving fast and working with minimal information. On the other hand, the “outside” has the luxury of really understanding the root of many hard problems. People have different politics, approaches and levers to pull to work on the same problem statements. Some are pursuing more radical approaches to change, some are generating knowledge for the sake of it to advance their careers and some explicitly hope that their work finds an audience “inside” but don’t know how to achieve that.</p>
+
+<blockquote>
+  <p>How do we bridge the gap between the outside and the inside?</p>
+</blockquote>
+
+<p>We can be translators. We can use our seat at the table to bring in the conversations happening outside. It’s a powerful position with great responsibility. Not every conversation outside of the government is useful, some are problematic and all carry their own politics.  Not everything you read or learn about will or should have an audience within. But you understand the priorities within, the constraints and the vocabulary. You wait for the opportune moments to introduce conversations. You use those conversations to shape your everyday work. It can be as simple as sharing a news article in the many government WhatsApp groups you are part of, inviting people to talks, setting up and mediating collaborations or creating bullet-points from papers you’ve read for your superiors. Make both worlds understand each other.</p>
+
+<p>Listen. Be aware. Be interdisciplinary. Read. Engage. Filter. Package. Wait.  Use your seat at the table, be a translator.</p>
+
+<hr />
+
+<p>For more government micro-musings, you can check my <a href="https://twitter.com/search?q=(%23sarkari)%20(from%3ANisarHogaya)&amp;src=typed_query">tweets</a>!</p>
+
+<p>Previous notes: https://harshnisar.github.io/blog/</p>]]></content><author><name></name></author><category term="Blog" /><category term="Government" /><category term="Submitted Please" /><category term="Notings" /><summary type="html"><![CDATA[Limits of first principles thinking and the role of translators bridging the outside and the inside in public sector]]></summary></entry><entry><title type="html">Noting #2: Why Government Technology UX is Poor and the Role of Product Managers</title><link href="https://harshnisar.github.io/blog/why-govtech-poor-ux/" rel="alternate" type="text/html" title="Noting #2: Why Government Technology UX is Poor and the Role of Product Managers" /><published>2022-04-03T00:00:00+00:00</published><updated>2022-04-03T00:00:00+00:00</updated><id>https://harshnisar.github.io/blog/why-govtech-poor-ux</id><content type="html" xml:base="https://harshnisar.github.io/blog/why-govtech-poor-ux/"><![CDATA[<p>Product Manager positions are going to get more popular in government. PMGSY has two institutional posts since 2019, my current team has one exceptional product manager and I know few in the pipeline. There are others who do somewhat similar work but with different official designations.</p>
+
+<p>Recently, along with the product manager in the team we presented User Experience (UX) improvements on existing modules of a particular scheme MIS based on the feedback collected by the PM on her field visits and talking to end users. We’ve had many such meetings over the past couple of years with various teams and they generally go in similar manner.</p>
+
+<blockquote>
+  <p>“But can’t the User just go back and find the information from a different report?”</p>
+</blockquote>
+
+<blockquote>
+  <p>“The User also has to do some work”.</p>
+</blockquote>
+
+<blockquote>
+  <p>“They’ll always find something to complain about, can’t pamper.”</p>
+</blockquote>
+
+<p>I don’t think a lot of these concerns or remarks are genuinely meant, at least not always. These are instead acts of self-preservation by technical teams and symptoms of systemic issue. No amount of product conversations or hires can make government technology more user friendly for citizens or government counter-parts unless we fix the basics.  MIS teams are always playing catch up, submerged in new often half-baked requirements followed by never ending iterations, everything is high priority and therefore nothing is, have little interaction with end-users, have their salaries delayed and fighting attrition with  high private sector post-COVID salaries + remote work perks. Within this, recommending that an existing and <em>functioning</em> module needs to be modified with added tool-tips, intuitive forms labelling is being out of touch with reality.</p>
+
+<blockquote>
+  <p>“Let’s finish the need-to-haves first”</p>
+</blockquote>
+
+<p>Discarding the difference in opinion on what’s optional and what’s needed,  “need-to-haves” seem to never end. We seem to be always loudly building and if any time is spared, silently maintaining.</p>
+
+<p>PMs can’t fix hiring or salaries, so what can PMs in the government do instead?</p>
+
+<p>Naturally, deployed modules generate actual user feedback and there maybe an urge to fix these first, but given the circumstances it might be better to focus on greenfield or new modules and ensuring they are user-friendly right from the scratch. Iterations are costly. It also means moving from verbal requirements to having PRDs and mockups being sent to technical teams from the administrative/policy teams. It’s a win-win, PMs can control the UX with PRDs, whereas the technical teams can hold the division accountable for iterations beyond the documented requirements. PMs can also create a single-window for prioritizing tasks pouring in from across divisions, make visible the silent but important maintenance time sinks etc.</p>
+
+<p>But there is only so much that can be done with always under-capacity and poorly paid technical teams. Fixing the hiring pipeline and retention of technical resources is the primary need-to-have, maybe then good UX can be too.</p>
+
+<p>PS. If you are interested in doing Product Management in the Government, feel free to shoot me an email.</p>
+
+<p>PPS. If your government department is hiring a product manager, I am happy to share the TORs we have been using.</p>
+
+<hr />
+<p>For more government micro-musings, you can check my <a href="https://twitter.com/search?q=(%23sarkari)%20(from%3ANisarHogaya)&amp;src=typed_query">tweets</a>!</p>
+
+<p>Previous notes: https://harshnisar.github.io/blog/</p>]]></content><author><name></name></author><category term="Blog" /><category term="Government" /><category term="Submitted Please" /><category term="Notings" /><summary type="html"><![CDATA[On Product Management in Government and why Government Technology often has poor UX]]></summary></entry><entry><title type="html">Noting #1: Time in the Government and Sticking Around</title><link href="https://harshnisar.github.io/blog/sticking-around/" rel="alternate" type="text/html" title="Noting #1: Time in the Government and Sticking Around" /><published>2022-03-22T00:00:00+00:00</published><updated>2022-03-22T00:00:00+00:00</updated><id>https://harshnisar.github.io/blog/sticking-around</id><content type="html" xml:base="https://harshnisar.github.io/blog/sticking-around/"><![CDATA[<p>I started working in the government in 2016. If I look back, my early years were unlearning my technocratic instincts and learning to ground myself in institutions which have stood the test of time and people that make it work everyday behind the scenes.  The work I did was simple and patchwork. Simple data analysis for allocations, M&amp;E with more precise KPIs, better reports and an app maybe. These projects were not yet implemented by people before me, not because of lack of idea, skills or initiative, but rather the lack of certain privileges afforded to me as a young person with an undefined role in the government, unhinged time and a seat on a table unwarranted by my then expertise. I was just an enthusiastic warm body, free from hierarchy and the daily routine, routine that makes the government actually work. These privileges, especially free time/mind,  allowed made me do the work I did, nothing inherently special about the person here.</p>
+
+<p>As, I complete my 6th year in the same Ministry, my solution space has expanded drastically. On one hand, I am now more entrenched in the routine but at the same time, I now have the necessary relationships, context and experience to work on fixing systemic causes and not just patch up the symptoms. The solution space I have now was unimaginable to the younger version of me in the government.</p>
+
+<p>There lies the problem with 1-2 year fellowships, tours of duties etc. By the time you’ll figure the system, you’ll be planning to get out of it. Young, unhinged talent is necessary, but you can only do patchwork. Stick around and the actual work begins. At the same time, we need to do more work in allowing young people who’ve tried working in the government, actually stay back.</p>
+
+<p>Stick around.</p>
+
+<p>Submitted please.</p>
+
+<hr />
+<p>For more government micro-musings, you can check my <a href="https://twitter.com/search?q=(%23sarkari)%20(from%3ANisarHogaya)&amp;src=typed_query">tweets</a>!</p>]]></content><author><name></name></author><category term="Blog" /><category term="Government" /><category term="Submitted Please" /><category term="Notings" /><summary type="html"><![CDATA[On sticking around in the government]]></summary></entry><entry><title type="html">Does Your Government Department Really Need a Data Scientist? Probably Not.</title><link href="https://harshnisar.github.io/blog/gov-data-scientist/" rel="alternate" type="text/html" title="Does Your Government Department Really Need a Data Scientist? Probably Not." /><published>2021-12-12T00:00:00+00:00</published><updated>2021-12-12T00:00:00+00:00</updated><id>https://harshnisar.github.io/blog/gov-data-scientist</id><content type="html" xml:base="https://harshnisar.github.io/blog/gov-data-scientist/"><![CDATA[<p>I know, this is contrary to what I’ve been tweeting or talking about. Don’t get me wrong, I am a huge proponent of building in-house expertise for emerging technologies in the government. Over the last 5 years in the Ministry of Rural Development, I’ve played the role of a solo data scientist in DDUGKY, PMGSY and now as the founder and lead for the ministry-wide Data &amp; Insights Units.</p>
+
+<p>Before I begin, I need to clarify what I mean by a data scientist given it remains a contextual definition. I’ll differentiate them from data analysts in their ability to code and use algorithms, train ML models etc. I am assuming an analyst can do data analysis, create dashboards and visualizations.</p>
+
+<p>Why then do I disagree with my own position?
+Frankly, I don’t think most departments are there yet.</p>
+
+<h2 id="act-one">ACT ONE</h2>
+<p>In 2016, when I was hired in DDUGKY, the department was struggling with having a proper MIS. The day-to-day scheme operations were managed by an elaborate and to its merit a very smart system of linked google spreadsheets. Back then, I was the cliche engineer with a hammer in search of solutions, it was just that the walls were not even setup and there was nothing to hammer a nail into. Leaving aside managing two vendor-based ML pilots which were initiated before I joined, most of my time at that department went into helping design the requirements for an actual MIS, figuring procurement and spending time conducting day-to-day operational analysis with the data that already existed. I would say I played the role of an analyst + project manager.</p>
+
+<h2 id="act-two">ACT TWO</h2>
+<p>In 2018, I moved to PMGSY where the digital systems were mature and the scheme had been functioning since early 2000s. What do I mean by digital systems? Most of the administrative processes under the PMGSY program were digital and largely transactional. Further, the department had invested in digitizing key datasets such as getting all of the rural roads and habitations on GIS in a project that took 3-4 years. Here, I was brought in with the aim of capitalizing on the GIS datasets that had been collected prior to my joining. The timing was suitable as the government was preparing to launch a new road upgradation program and I was tasked with improving the policy for the road selection process. The solution involved conducting stakeholder consultations, writing the rural traffic simulation algorithm, designing new IT modules needed for the overall process, managing development and deployment, directly training more than 6000+ stakeholders, providing tech support, examining and reporting bugs to the IT team, conducting planning audits on the new roads being selected, creating reports/presentations, constantly talking with state IT/GIS heads to ensure they are able to complete the processes etc. In this case, the leadership had an idea of why they wanted a data scientist. there is a broad but clear pathway, and the department had mature digital systems on which these interventions could sit on. Generally, algorithms will be a small part of the whole, and in most cases gains will be incremental. The real gains are to be achieved in first digitizing processes where possible. Similarly, for the data scientist role in this case, writing the algorithms was also a very small part of the whole and the skillsets required were far more generalist in nature. But nonethelse, PMGSY probably was an ideal place to have a dedicated data scientist.</p>
+
+<h2 id="act-three">ACT THREE</h2>
+<p>Based on learnings and showing merit in using emerging technologies to improve governance, we decided to scale this across government programs within the Ministry of Rural Development. Among many options, two major ones were whether we push for a dedicated data scientist within each scheme (Act One and Two) or have a common team across the Ministry (still inhouse but a different floor?).</p>
+
+<h2 id="risk-of-a-common-team">Risk of a Common Team</h2>
+<ul>
+  <li>Difficult to get buy-in within the individual divisions/government programs given you’ll operate outside of them</li>
+  <li>Scoping of Projects will be less immersive</li>
+  <li>Patchwork projects as against more deeper/systemic projects. PMGSY-III project required a lot of involvement apart from just writing the algorithm. Limited to writing API-able algorithmic projects or low touch changes.</li>
+  <li>Difficult to build relationships with existing technical teams</li>
+  <li>Cannot work on improvement of IT modules etc</li>
+</ul>
+
+<h2 id="advantages-of-a-common-team">Advantages of a Common Team</h2>
+<ul>
+  <li>Pipeline has a lot of time-lags so the same data scientist can work across more than one projects</li>
+  <li>Not every scheme has easily scoped algorithmic projects</li>
+  <li>Can focus on algorithmic projects and will not be pulled into operational IT work</li>
+  <li>Can invest in additional common roles such as HCI Researcher etc</li>
+  <li>Can bridge data silos across the departments</li>
+  <li>Hiring data scientists is already hard, more-so in in the public sector: low pay, lack of expertise to interview and hire. Common teams usually will mean lesser hiring</li>
+  <li>Leadership at the department level may not be there yet for all schemes, so easier to anchor the team with a single senior bureaucrat.</li>
+  <li>Easier to setup ethics board mechanisms, re-direct vendors attempting to sell directly to downstream agencies etc.</li>
+</ul>
+
+<p>We decided to go for a common team after addressing some of the associated risks.</p>
+
+<p>For one, the team is anchored to the Additional Secretary in the Ministry to which most of the Joint Secretaries in charge of divisions or government programs within the Ministry report to. This helps us get the administrative buy-in and the horizontal view of the schemes and the priorities.</p>
+
+<p>For technical buy-in, the team sits with the Department’s NIC and remains under the mentorship of the DDG, NIC which heads the NIC for our Ministry. NIC develops and maintains most of the division level MIS in our Ministry except for PMGSY and to some extent DDUGKY.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <picture>
+    
+    <source media="(max-width: 480px)" srcset="/assets/resized/DIU_Organogram-480x218.PNG" />
+    
+    <source media="(max-width: 800px)" srcset="/assets/resized/DIU_Organogram-800x363.PNG" />
+    
+    <source media="(max-width: 1400px)" srcset="/assets/resized/DIU_Organogram-1400x636.PNG" />
+    
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/DIU_Organogram.PNG" title="Organogram of proposed common data science team" />
+</picture>
+
+    </div>
+</div>
+<div class="caption">
+    Organogram of proposed common data science team
+</div>
+
+<p>I have to admit, a large part of why this team is also able to get some early wins since beginning is because of the existing relationships I was able to build within the Ministry over the last 5 years. This includes relationships not just with the bureaucrats, but more importantly with the technical and ops teams in the middle tier. Having had worked in the 2 of the schemes intimately also allowed us to scope a project really quick. The real test will be scoping projects for schemes we’ve had no context or relationships with.</p>
+
+<h3 id="what-should-your-department-do">What should your department do?</h3>
+<p>I think it depends on multiple factors:</p>
+<ul>
+  <li>Maturity of IT systems</li>
+  <li>Maturity of leadership</li>
+  <li>Proven culture of everyday data science</li>
+  <li>Funding mechanism available and their flexibility</li>
+  <li>Organogram of sub/parent agencies</li>
+</ul>
+
+<h3 id="lets-get-the-basics-right-first">Lets get the basics right first</h3>
+<p>For example, agencies which yet haven’t digitized core components of their administration, should instead focus on that first. One can argue that the data science projects can happen in parallel to the basic IT projects and they don’t necessarily need to compete. We need to remember that department heads generally are over-burdened and have limited monitoring capacity and in that case they may be better rationed to basic CRUD projects. Once,  that’s done, an agency may better benefit by hiring data analysts or upskilling existing MIS professionals on better data-usage before hiring expensive data scientists or procuring commercial AI/ML solutions. A sophisticated algorithm churning out insights may not be useful unless the department has saturated the utility of the basics and has shown a culture of data-driven decision making.</p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>There are different methods of leveraging emerging technologies within the government and across the world these mechanisms are being experimented with. Even the team compositions will different with different domain ministries/agencies/departments. What will work for a specific department/agency/ministry may depend on the exact circumstances, maturity,  relationships, funding mechanisms available etc. Unfortunately, most public sector agencies are under the pressure to <em>innovate</em> and will go through a cycle of experiments before settling into what works for them the best. Failed projects will distract from core priorities, waste public money, erode trust on emerging technologies and at worst lead to shoddy deployments and harmful end-user impacts.</p>
+
+<p>There is a need for agencies and donors to learn from what has and hasn’t worked and figure out less riskier pathways for more responsible and meaningful use of emerging technologies to improve service delivery.</p>
+
+<hr />
+<p>For more government micro-musings, you can check my <a href="https://twitter.com/search?q=(%23sarkari)%20(from%3ANisarHogaya)&amp;src=typed_query">tweets</a>!</p>]]></content><author><name></name></author><category term="Blog" /><category term="Government" /><summary type="html"><![CDATA[Choosing pathways for public sector to leverage emerging technologies.]]></summary></entry><entry><title type="html">Tale of Two Exponentials: COVID-19 Cases and Government Notifications in India</title><link href="https://harshnisar.github.io/blog/COVID-19-tale-of-exponentials/" rel="alternate" type="text/html" title="Tale of Two Exponentials: COVID-19 Cases and Government Notifications in India" /><published>2020-04-08T00:00:00+00:00</published><updated>2020-04-08T00:00:00+00:00</updated><id>https://harshnisar.github.io/blog/COVID-19-tale-of-exponentials</id><content type="html" xml:base="https://harshnisar.github.io/blog/COVID-19-tale-of-exponentials/"><![CDATA[<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <picture>
+    
+    <source media="(max-width: 480px)" srcset="/assets/resized/myimage-saved-min-480x320.jpg" />
+    
+    <source media="(max-width: 800px)" srcset="/assets/resized/myimage-saved-min-800x533.jpg" />
+    
+    <source media="(max-width: 1400px)" srcset="/assets/resized/myimage-saved-min-1400x933.jpg" />
+    
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/myimage-saved-min.jpg" title="example imaged" />
+</picture>
+
+    </div>
+</div>
+
+<p>Disclaimer: Government’s response to COVID-19 cannot be measured based on the number of public notifications or circulars issued alone. There is nuance in how they were implemented, the policy carried, exhaustiveness and clarity. States have been involved in IEC campaigns, sanitation drives, rigorous tracking &amp; testing, ramping up health infrastructure, urgent welfare etc which may not reflect in notifications. Notifications only capture a small section of the government’s response but are a significant interface nonetheless given the pandemic affects all strata of society in different ways and requires public participation to fight it. The timing and volume of notifications can help understand the timeliness and evolving nature (precautionary/reactionary) of the government’s response to some extent.</p>
+
+<p>While most state government notifications (pls see above) came out in March, a handful of states have been issuing notifications since the start of January/February. While most notification curves mirror the pandemic (however displaced in time, preceding or following), MP is the only outlier.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <picture>
+    
+    <source media="(max-width: 480px)" srcset="/assets/resized/Madhya_Pradesh_solo-480x300.png" />
+    
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/Madhya_Pradesh_solo.png" title="example image" />
+</picture>
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <picture>
+    
+    <source media="(max-width: 480px)" srcset="/assets/resized/Kerala_solo-480x300.png" />
+    
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/Kerala_solo.png" title="example image" />
+</picture>
+
+    </div>
+</div>
+
+<p>To conclude as little the better, but interesting nonetheless. The state governments, districts, frontline workers have been working incredibly hard in these unprecedented times.</p>
+
+<p>Curious to see how the curves behave with time - hopefully flattening.</p>]]></content><author><name></name></author><category term="Blog" /><category term="Government" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">The Cost of Innovation</title><link href="https://harshnisar.github.io/blog/cost-innovation/" rel="alternate" type="text/html" title="The Cost of Innovation" /><published>2020-03-28T19:34:30+00:00</published><updated>2020-03-28T19:34:30+00:00</updated><id>https://harshnisar.github.io/blog/cost-innovation</id><content type="html" xml:base="https://harshnisar.github.io/blog/cost-innovation/"><![CDATA[<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <picture>
+    
+    <source media="(max-width: 480px)" srcset="/assets/resized/ruralroad-480x240.jpg" />
+    
+    <source media="(max-width: 800px)" srcset="/assets/resized/ruralroad-800x400.jpg" />
+    
+    <source media="(max-width: 1400px)" srcset="/assets/resized/ruralroad-1400x700.jpg" />
+    
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/ruralroad.jpg" title="example image" />
+</picture>
+
+    </div>
+</div>
+
+<p>It’s 6:00 AM and Imran is ready to leave for work. Their 2 year old son isn’t awake yet. His wife has packed a steel tiffin for the day. It’s not enough for the whole day but he decides to eat on a dhaba on the way. He had joined the state engineering services about 2 years ago and holds the position of a Joint Engineer, an entry level position for overseeing public engineering works in a rural district of Bihar. He struggles to kick start his motorbike. It’s freezing cold and he doesn’t have a departmental vehicle assigned to him. The two cars allocated to the district are being utilized to chauffeur his superiors’ personal families. The local contractor had offered to buy him a new bike but he had declined the offer on principle. His bike finally breathes into life. Ready and well armed with multiple power banks, he leaves for the day. His first stop is at the local petrol pump. He fills a full tank knowing well in advance there will be no reimbursement for his bills. The administrative cap for travel allowances for his district was surpassed months ago. He opens the official whatsapp group to find the apk shared by app developers in Delhi and installs the android application. A survey needs to be done. It’s “urgent” as per his superiors, a word that has little meaning left when almost every task given to him is classified as urgent. He starts the survey and drives from one village to another. The internet is patchy but he has been informed that the mobile application works offline as well. Not informed about the intended use of the data, he makes his own assumptions about what should and shouldn’t be surveyed. Occasionally he checks in on the whatsapp group to see if someone has posted any tips on the application usage. Occasionally someone jokes about not being paid enough for this work. No wonder some of his colleagues have found other sources of illicit income. As he drives on dilapidated roads, he is careful not to drop his phone. Many of the roads which he passes are due for routine inspections as part of his regular duties. A proper inspection would require about 2-3 hours per road but instead he makes a mental note about the visual condition of the road and decides to extrapolate the same and write a desk based report later. It will be inaccurate, but that’s the best he can do given the circumstances. He did the same last month as he was occupied with Panchayat election duty. Before that the engineers were called in to help set up a district mela on behest of the local MLA. There is always something. Today he has to cover 100 villages. At around 11:00 PM he reaches home. His wife applies balm to his back to soothe a recurring ache. Their 2 year old kid is fast asleep. Imran’s wife is concerned about the stress and exhaustion. “Wasn’t the government job supposed to be easy?” The next day he reports to the office to find that a percentage of photographs weren’t uploaded to the online system because of system outage at the server end in Delhi and that he was forwarded an outdated version of the app. Others in the whatsapp group have reported similar issues. He tries contacting the helpline number provided by the software development team in Delhi but they are helpless as well.  Imran’s superiors decide that it’s best for him to go to and re-survey the villages for which the data was lost. This goes on for a week till the survey work is complete. He never heard back about how the data was utilised or got access to the data he collected through the app.</p>
+
+<p>Meanwhile in Delhi - the survey data from many engineers like Imran across the country are  aggregated to fit a single bar graph with a 2 line caption in a government commissioned, multilateral bank funded, big-4 consultancy authored report. The report is titled “Data driven Innovation in Rural Infrastructure” which among many things concludes that state capacity is limited, corrupt and pushes for further privatisation.</p>
+
+<p>Disclaimer: This is a fictional write up loosely inspired by ground realities.</p>
+
+<div class="notice">
+  <h4>Message</h4>
+  <p>
+Would love to know to your thoughts at nisar dot harsh at gmail
+  </p>
+  </div>]]></content><author><name></name></author><category term="Blog" /><category term="Government" /><category term="Algorithms &amp; Data" /><category term="State Capacity" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Notes on developing an algorithmic projects in the Indian Government</title><link href="https://harshnisar.github.io/blog/notes-ai-government/" rel="alternate" type="text/html" title="Notes on developing an algorithmic projects in the Indian Government" /><published>2019-01-15T00:00:00+00:00</published><updated>2019-01-15T00:00:00+00:00</updated><id>https://harshnisar.github.io/blog/notes-ai-government</id><content type="html" xml:base="https://harshnisar.github.io/blog/notes-ai-government/"><![CDATA[<p><strong>Context</strong>: I work as a data scientist at Ministry of Rural Development, Government of India. Specifically in a department that is in-charge of boosting rural road connectivity across villages in India. Last year, I was put in charge of exploring an algorithmic method of selecting candidate roads for upgradation/repair keeping in mind connectivity to schools, hospitals and agricultural markets.</p>
+
+<p>It was a resource-constraint problem, we don’t have the budget to repair all the roads in our massive network, so the government had to ensure roads with maximum utility were prioritised. The definition of utility (a policy decision) was based on roads which most people depends on to access hospitals, markets and educational facilities.</p>
+
+<p>I proposed an algorithm which drew the shortest path from each habitation in a block (an administrative geographic division) to its nearest school, hospital and market in the block. Post that, it iterated through each road segment to identify the total habitations which depended on it and summed up the populations.</p>
+
+<p>The idea was that if this road was to deteriorate, access to facilities for most number of people will be affected - making a case for preemptive repair/upgradation.</p>
+
+<p>From code and pilot on QGIS to a paragraph in the final policy guidelines - it took multiple stakeholder presentations and negotiations spanning over 6 months.</p>
+
+<h2 id="here-are-some-of-my-thoughtsnotes-from-the-process">Here are some of my thoughts/notes from the process:</h2>
+
+<h3 id="fairness-transparency-and-accountability-are-not-new-concepts-in-governance">Fairness, Transparency and Accountability are not new concepts in Governance</h3>
+<p>Mechanisms of fairness, transparency and accountability are installed in government functioning over years and I found them to naturally flow (with some prodding) into the realm of automatic decision making or IT which to be them is another means to an end. Admittedly, the manifestation of FAT principles or questioning wasn’t exactly technical in nature. But I believe the nature of questioning can be expanded further given the first principles seem to exist. Some questions that I was posed came from a deep sense of equity and civic duties while some came from fear of internal government audits and  jaded experience with past failed IT projects.</p>
+
+<h3 id="can-you-calculate-this-on-paper">Can you calculate this on paper?</h3>
+<p>One of the questions which I was posed the most with was if I could replicate the outcome of the algorithm by hand on paper. I could identify two sources of concern which led to this questioning:
+Assumption that the IT tool which would incorporate the algorithm wouldn’t work as proposed or would not be ready on time. If we were mandating the States to use this algorithm, as a fail-safe the algorithm should be easily replicable on paper by officials incase the system fails. 
+The incumbent method of selection is rubric based point system and hence there is an ease of working with solutions which they understand how they function under the hood.</p>
+
+<p>The proposed algorithm which was based on shortest path analysis isn’t easily replicable on paper.  I would assume that only simplistic approaches would meet this criteria and by-default these would be far more transparent or replicable. But I am unsure if the requirement to be solvable on paper necessary and thereby having something simplistic in itself is fair baseline - as such solutions might miss the nuances and complexities of realities present.</p>
+
+<h3 id="understanding-the-appeal-of-algorithmic-decision-making">Understanding the appeal of algorithmic decision making</h3>
+<p>I presented the algorithm to representatives of different States through workshops and visits. In general, they agreed with the intuition behind it. During the feedback sessions, what came unequivocally was there hope that this would limit political interferences by local representatives in the process of selection of roads. In their experience, there have been moments in which political local representatives have tried to pressurize them into selecting sub-optimal roads.</p>
+
+<p>They believe that If they had a printed map which was system generated - they could point to that when they were pressured to select something else which may or may not be the most optimal choice.</p>
+
+<p>Ideally, in the spirit of democracy, the process of selection of roads allows for the political representatives to have a say as they are supposed to represent the needs of their constituents. But anecdotal experience suggests, interference is often malafide and driven by vested interests.</p>
+
+<p>The motivation to by-pass or subvert downstream corruptible interfaces of bureaucracy often leads to techno-solutionism and centralizing of powers further upstream in the decision making chain.</p>
+
+<h3 id="what-if-we-are-audited-for-our-choice-of-roads">What if we are audited for our choice of roads?</h3>
+<p>Internal and CAG audits came up again and again while discussing with the officers at the central department in charge of monitoring and administering the scheme. The concern stemmed from creating process/policy which we won’t be able to enforce subjecting the department to endless back and forth with internal and CAG auditors. Though the primary subject of this concern was whether we choose to use the word may or shall in the framing of the policy, a part of the concern was also regarding the explainability of the algorithm in-case of audits and objects raised by auditors and political representatives (hypothetically antaganozied because their agency was challenged by an algorithm)</p>
+
+<h3 id="careful-selection-of-point-of-intervention">Careful selection of point of intervention</h3>
+<p>If the final objective of the exercise is to ensure the output is utilized in decision making, the right point of intervention in an already existing policy needs to be identified. Often, the algorithm will have to function in an existing operational policy landscape and it won’t be possible to drop ship it.</p>
+
+<p>This may involve the following:</p>
+<ul>
+  <li>Understanding exactly how the current process of selection happens in writing and reality (often not as they appear in high-incentive, easily corruptible environment).</li>
+  <li>Decoupling of existing processes to make space for intervention.
+Eg. The shapefiles required for the algorithm were being uploaded digitally only after the selection of roads was completed and hence didn’t give a point of intervention.</li>
+</ul>
+
+<p>Careful scoping of AI/ML interventions while understanding the constraints under which technology operates in Government is the key to successfully implementing these projects.</p>
+
+<h3 id="importance-of-clear-internal-accountability">Importance of clear internal Accountability</h3>
+<p>The fact that I was internal and single-handedly pushing for this algorithm made it internally very easy to made accountable for incase things go awry. This acted as an additional personal incentive to be sure of what I advocating for. Although, I don’t think this is largely the case in other government technology projects especially if the solution was being proposed by a larger monolith corporation. The natural proposal is to ensure clear accountability measures for high priority projects. This would be two fold - better contract management with external vendors and having competent &amp; clear roles designated inside the department for IT liaison.</p>
+
+<h3 id="negotiations-and-transformations">Negotiations and transformations</h3>
+<p>By the end of the process a transformed version of the policy was adopted with the negotiations only leading to something more transparent, adjusted to the reality of IT in government and cautious of limitations of algorithms which were ignorant to local edge-cases and realities. I believe, this was only possible because of the amount of deliberation this “policy” decision was subjected to.</p>
+
+<h2 id="what-worked-in-favour-of-successful-uptake-of-the-algorithm">What worked in favour of successful uptake of the algorithm</h2>
+
+<ul>
+  <li>I proposed the algorithm  as a planning exercise called Trace Mapping. It makes it appear as a human conducting an exercise and preparing a map as against an omniscient off the shelf tool which gives an answer. It humanised the algorithm and made it easier to refer to in policy discussions.</li>
+  <li>It was a recommendation tool for planning as against a tool which mandated selection of roads from the list of options it generated.</li>
+  <li>We found a way to approximately reproduce the algorithm on paper without any maths (simply tracing lines with a pencil). It made it less of a blackbox and also acted as the failsafe incase the IT tool failed. Even though shortest path analysis is not trivial mathematically, the output is extremely easy to interpret, verify and understand. It’s an open question whether I would have had the same reaction from the department had it been a machine learning model (even a linear regression for that matter)</li>
+</ul>
+
+<h2 id="open-questions-and-thoughts-on-using-ai-in-the-government">Open Questions and thoughts on using AI in the government:</h2>
+
+<h3 id="fairness-accountability-and-transparency-are-not-new-conversations-in-governance-and-fatml-shouldnt-operate-with-that-assumption">Fairness, Accountability and Transparency are not new conversations in governance and FATML shouldn’t operate with that assumption.</h3>
+<p>Rather, what is that we can do to ensure traditional FAT principles in civil services seamlessly also translate into the realm of automated decision making at scale.</p>
+
+<p>While accountability seems to stem from internal regulatory and audit based concerns, I have noticed fairness subjected to contextual and personal interpretation and ideals. While transparency is also more or less subjected to regulation (RTI) but not with the same associated weight as internal audits which can have serious consequences politically and individually to the careers of bureaucrats.</p>
+
+<p>It’ll be interesting to understand interpretations of fairness by different levels of bureaucracy by conducting thought experiments contextualized in the realm of governance:</p>
+
+<p>Eg. Once the policy mandated eligibility criterion for a scheme have been fulfilled - Is it fair to prioritise eligible beneficiaries based on their likelihood of succeeding in the intervention or it’s only fair to choose them at random?</p>
+
+<h3 id="in-my-experience-certain-automated-decision-making-systems-ive-chanced-to-work-on-previously-didnt-face-the-same-set-of-scrutiny-as-this-project">In my experience certain “automated decision making” systems I’ve chanced to work on previously didn’t face the same set of scrutiny as this project.</h3>
+
+<p>Is it the nature of the algorithm or high-stakes nature of the situation? This algorithm was grey-box and hence approachable enough for officers to poke holes in it? Are problems of selection conceptually thought of differently then that of prioritisation or surveillance (exception management)?</p>
+
+<p>More than supervised learning - not all “automated decision making” in the government will be in the form of supervised machine learning models. Some will be unsupervised learning problems or more commonly from the realm of optimization. As in the case above, recent discriminatory audit techniques on prediction might not directly apply.</p>
+
+<h3 id="there-is-a-need-to-translate-well-documented-or-otherwise-issues-which-government-technology-projects-face-and-translate-how-these-will-seep-into-mlai-projects">There is a need to translate well documented or otherwise issues which government technology projects face and translate how these will seep into ML/AI projects.</h3>
+
+<p><strong>Lopsided technical literacy between government and technical solution</strong> providers leads imbalanced client-vendor dynamic. Though overtime and with practice, the technical literacy of bureaucrats has increased, it still leads to vendors getting the last (and not necessarily factually correct) say on most technical discussions. Often, under-resourced government departments don’t have dedicated ICT PMUs and are at the mercy of the vendor.</p>
+
+<p>This dynamic will be further carried forward with AI/ML projects. Further, even the vendors are not that technically literate at the moment.</p>
+
+<p>Eg I was asked to look at a pilot AI/ML project which officers and the vendor proudly boasting to have 85% accuracy (a term which the bureaucracy understood loosely, not technically). After probing the team and looking at their scripts, it appeared that the baseline itself was 85% and the model did no better than a classifier which predicted each case as the majority class.</p>
+
+<p><strong>Technology project as a mean and not an end</strong> Often times, IT projects which are not central to service delivery, are launched and forgotten. Eg. A hypothetical citizen feedback tool once launched isn’t monitored on the closure of complaints, the service level agreements, crashes etc. This may stem from the lack product ownership talent inside the government and contracts with vendors which end at the final release. But the case remains, the maintenance and monitoring of usage non-primary IT projects remains to be a weak point. Translating the same to the realm of machine learning projects would mean that models once trained and evaluated offline will potentially not be monitored post deployment for drifts in evaluation metrics, concepts and inherent distributions.</p>
+
+<p>Maintenance of machine learning models is not trivial and usually not taught in MOOCs which happen[*] to be the primary source of information for domestic talent in India till the time curriculum in universities adapt.</p>
+
+<p><strong>Procurement and Contract Management:</strong> Though briefly touched upon the previous point, contract management is poor in government in general and is amplified further when dealing with technical projects. It’s yet to be seen how contracts and DLI (Disbursement Linked Indicators) will look for machine learning projects. Though, this project was in-house, I’ve worked on 2 other pilots projects with vendors. A nuanced and retrospective reading of the contracts and deliberation on how they can be further improved is warranted. The good folks at USDS have been advocating Agile in procurement of government technology products. Will something similar work for AI/ML projects?</p>
+
+<p><strong>Readiness of National Informatics Centre</strong>: NIC is government’s technology arm. What’s their understanding of AI/ML projects? As the government’s go to agency for technology projects, how prepared are they for AI/ML? What role will they play in AI/ML projects and how can they better prepared?</p>
+
+<p>By my personal observation, the role of NIC in development has reduced as they wish to focus more on product management and ownership while development resources are hired from consulting firms through its NICSI arm.</p>
+
+<h3 id="data-is-not-just-biased-its-corrupt">Data is not just biased, it’s corrupt:</h3>
+<p>Biased data isn’t particular to developing countries per-say. The problems of under-representation, feedback loops etc are being discussed widely in media and literature lately.</p>
+
+<p>Another manifestation of biased data is corrupted data which will be a problem more common to developing economies with high amount of street-level corruption. Usually the labels to predict are ones of high importance in decision making. The higher the importance in decision making, the more chances of it being corruptible. Eg. Let’s say one has fire-hazard inspection data for buildings in a city. There has been a budget cut and I’ve been tasked to prioritize buildings to inspect. As per one definition of efficiency, I want to get a 100% hit-rate in my inspections. So, I train a model on results of past inspections. There are two classes - hazardous &amp; safe. A building labelled as safe can actually be safe or be hazardous but the inspecting officer was bribed to label it as safe. The chances of a building labelled as hazardous has a high chance of being hazardous given a building owner would litigate if wrongly labelled as hazardous even after following norms. The repercussions of training models on corrupted data needs to be understood further and data science methods to mitigate the effects of such models need to be explored as most of the high-stake data in government might be corrupted in this manner.</p>
+
+<h3 id="variance-in-quality-of-data-collection-as-a-reflection-of-larger-inequalities">Variance in quality of data collection as a reflection of larger inequalities.</h3>
+
+<p>This isn’t just true to machine learning projects. A lot of time when evidence based policy think tanks are scoping for projects - they prefers geographies with quality administrative data systems/MIS etc. Functioning data systems are often manifestations of relatively functioning operations, bureaucracy and availability of resources. So, geographics which arguably need more focus are not selected for pilots/evaluations etc.</p>
+
+<p>The same will be applicable to optimization and AI projects as well. For example, in our case of Trace Mapping, for the algorithm to function properly, the shapefiles submitted need to be clean ie the network should be complete, continuous and well split. Each state independently prepared their shapefiles and there is a clear variance in the quality which may be attributable to either their contract management, local remote sensing capacities etc. These States will be further punished (assuming using the algorithm has net positive gains) because the algorithm won’t function for them.</p>
+
+<p>Similarly, this may also occur while working on supervised learning projects in which geographies with poor data will end up being chunked out in the data cleaning or scoping phase itself.</p>
+
+<p><em>Blog posts are not intended to be final products, but rather a reflection of current thinking and/or catalysts for discussion, like tweets but longer. These thoughts are my own and don’t represent that of the Government of India.</em></p>
+
+<p>======END======</p>
+
+<p>Appendix:
+[*] Based on my anecdotal experience while conducting more than 30+ interviews for machine learning engineer positions at Aspiringminds in 2016.</p>]]></content><author><name></name></author><category term="Blog" /><category term="Government" /><category term="AI/ML/Algorithms" /><summary type="html"><![CDATA[Context: I work as a data scientist at Ministry of Rural Development, Government of India. Specifically in a department that is in-charge of boosting rural road connectivity across villages in India. Last year, I was put in charge of exploring an algorithmic method of selecting candidate roads for upgradation/repair keeping in mind connectivity to schools, hospitals and agricultural markets.]]></summary></entry><entry><title type="html">The Redi Equilibrium - Intervene or let it be?</title><link href="https://harshnisar.github.io/blog/redi-equilibrium/" rel="alternate" type="text/html" title="The Redi Equilibrium - Intervene or let it be?" /><published>2016-07-03T19:34:30+00:00</published><updated>2016-07-03T19:34:30+00:00</updated><id>https://harshnisar.github.io/blog/redi-equilibrium</id><content type="html" xml:base="https://harshnisar.github.io/blog/redi-equilibrium/"><![CDATA[<p>I work in an industrial estate  where a lot of factories and companies are stacked next to each other. Ranging from factory workers and tailors to customer representatives, software developers and management professionals- people with very varied pay scales call this place their professional home. Inspite of the high diversity in payscales and collar colors, almost everyone working in here has one thing in common - street food.</p>
+
+<p>Every evening, almost everyone gathers at one or the other intersections that are dotted with street vendors and rediwallahs. These intersections are filled with the smell of fried food, tea, fruit juices, paranthas, omelettes and the sound of  water-cooler banter. It is a daily pilgrimage to go to this intersection; a much needed break from the air-conditioned quietude work.</p>
+
+<p>Over the course of time, we became good friends with Badal (name changed) - one of the rediwallahs. Badal owned a fresh-fruit-juice stall. He was quite bubbly and enthusiastic most of the times and would greet us with great gusto every evening.  Everyday, Badal would preemptively start to prepare our usual drink when he saw us approaching from far away.</p>
+
+<p>Our daily evening interactions and some latent thoughts on micro-entrepreneurship inspired me to explore how his business can be expanded. More specifically, can basic things such as bookkeeping and business ethics help him (and others like him) to make their businesses more profitable and scalable? We tried one of our ideas with Badal but he wasn’t all that excited about it and it fizzled out. However, as time passed, Badal and I grew became better acquainted with each other. It became a daily ritual to visit his redi and have some fresh fruit juice.</p>
+
+<p>One evening, my friend and I reached his redi- only to find it gone. There was an eerie silence enveloping the place. Cars were parked in the spots where redis used to be parked. It was hard to believe that the commotion, the redis, the snacks and the laughters had actually transpired here. There was no one in sight. We looked around in dismay – and saw Badal and his friends sitting on the footpath in the corner. They were having an animated discussion. We went to Badal and inquired over what happened.</p>
+
+<p>“The Municipality came. They confiscated the stalls along with our goods.”</p>
+
+<p>“Will you get it back?”</p>
+
+<p>“Yes, yes. Not an issue.”</p>
+
+<p>He seemed completely nonchalant about it. He wasn’t worried at all. It was as if this was a day to day activity. He was really confident that he will get his redi back tomorrow.</p>
+
+<p>Over the next few days, redis and food stalls started lining up again. Some got their redis back and some bought new ones. Badal would come to the intersection everyday and chitter-chatter with his friends.</p>
+
+<p>In the meantime, I decided to revisit a bill which I had stumbled upon during my initial research into micro-entrepreneurship to help Badal. The bill is named  “The Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act”, 2014.</p>
+
+<p>It’s byline reads as follows-</p>
+
+<p>An Act to protect the rights of urban street vendors and to regulate street vending activities and for matters connected therewith or incidental thereto.</p>
+
+<p>I’ve copied one of the sections from the bill here:</p>
+
+<p>(1) The Town Vending Committee shall, within such period and in such manner as may be specified in the scheme, conduct a survey of all existing street vendors, within the area under its jurisdiction, and subsequent survey shall be carried out at least once in every five years.</p>
+
+<p>(2) The Town Vending Committee shall ensure that all existing street vendors, identified in the survey, are accommodated in the vending zones subject to a norm conforming to two and half percent of the population of the ward or zone or town or city, as the case may be, in accordance with the plan for street vending and the holding capacity of the vending zones.</p>
+
+<p>(3) No street vendor shall be evicted or, as the case may be, relocated till the survey specified under sub-section (1) has been completed and the certificate of vending is issued to all street vendors.</p>
+
+<p>Source: http://www.prsindia.org/uploads/media/Recent%20Acts/Street%20Vendors%20%20Act,%202014.pdf</p>
+
+<p>Point number 3 is what struck me the most. Unless the street vendor has been surveyed and issued a certificate and a designated zone to vend, he can’t be evicted or his/her goods can’t be confiscated. The onus is on the municipalities to act first.</p>
+
+<p>Next day, we again went to the intersection and found Badal loitering around. I asked him whether they had had been issued a certificate or had been surveyed by the government? The answer was no. I tried to explain him that there is a law in the constitution which prohibits confiscation of goods by the municipality until the vendors had been surveyed and designated safe areas to vend.  He wasn’t even slightly interested. He was indifferent. He told me not to worry so much and that he will get his redi back. I don’t know what the source of his conviction was, because apparently everyone else was back to business but him. I tried to argue with him that even if he gets his redi back the absence of business and loss of goods is costing him money right now. It was almost as if he had accepted it as an occupational hazard. I asked him if he would be okay if I approached an NGO which works for vendors and  the implementation of the act. He was quite hesitant and kept telling me it isn’t a big deal. He told me that they were suspicious that the neighbouring IT Services MNC had complained to the authorities because the vendors cut business of their internal cafeterias and because the vendors crowded the intersection. To be fair, in all, the vendors probably only took the space of 4-5 cars. But it was still believable.</p>
+
+<p>Later that day, I noticed that the shed where the authorities put the confiscated redis was visible from my company’s terrace. It had literally hundreds of redis stacked and crushed against each other. Hundreds! I was beginning to get scared. This seemed like a much bigger nexus. Earlier, my colleague had mentioned how there is also redi mafia, which sell and rent out redis, food stalls and other goods to these people. What if this is a nexus between the authorities and mafia to create a constant demand for redis? I was and still am scared about getting involved in this. I could write a few emails and ask for help and forget about this, but what if Badal faced the the angry and vengeful consequences of this?
+It just didn’t feel right. Yes, Badal was hesitant to seek help. But so was I. I was scared. 
+I remember having a strong headache that day. Why are we so scared to do the right thing? My colleague and I asked each other. Why were we so scared to invoke the laws?</p>
+
+<p>But the problem was more deeper than this. The more I thought about this the more complicated it got. I tried to play different scenarios in my head. Right now there was this equilibrium in place, between the street vendors, the authorities, the mafia and the nearby businesses.</p>
+
+<p>It’s an industrially zoned place, I am not sure what the TVC’s stance will be on this.  In the case the survey happens, will the vendors be allowed to stay here legally or he/she would be asked to move to a different designated zone? Where will the designated zone be? Will it be some far off place? Will the designated zone be misused as a punishment? Atleast at present the vendors get to vend here untouched for 4-5 months at a stretch till the the authorities suddenly decide to confiscate their goods. This is a very profitable zone to vend, there aren’t any restaurants in the entire area and most offices don’t have an internal pantry. Chai, cigarettes, cheap eatables are staple for most workers here.  What is the risk appetite of vendors? Can the stomach the constant threats? Or it just lets them get by with their livelihood - can they accumulate wealth in these conditions?</p>
+
+<p>Another demanding question here is, what really is the motive of the authorities? Every time they confiscate and clear the intersection, it only takes about a week for the redis to pile back and they don’t seem to care for another few months. What then is their motive? Are they simply acting under the pressure of the MNCs or the redi mafia? Because decongesting the street doesn’t seem to be their highest priority, not in this city. The only minor profit they seem to get are the minor or major bribes paid by the street vendors to free their goods. Even the cafeteria doesn’t seem to benefit from this situation long enough nor do the CEOs looking for parking spots. But they are trying and if hurting their source of problem financially and causing it inconvenience seems to placate their misery, then it’s maybe paying off.  The only party then which seems to benefit from this in a significant manner is the hypothetical redi mafia. For confiscation creates a direct demand and sudden mass shortage of redis.</p>
+
+<p>So what if the situation right now is the most optimum solution for the street vendors?</p>
+
+<p>Ofcourse, the ideal solution would be that this intersection and the industrial zone at large gets a few areas marked as designated vending zones.  Seeing the number of low earning professionals working in the industries which would benefit from these vendors on a daily basis, I think it stands a decent chance. That way the street vendors can also get a chance at wealth creation and be done with the occasional setbacks.</p>
+
+<p>Ofcourse in the interim period when the rules are being drafted and the case is taken to court, will the street vendors be temporarily displaced? How long can they sustain?</p>
+
+<p>I decided to write an email to one of the NGOs that I stumbled upon while researching about the bill. I described the entire circumstance and my concern about Badal’s safety. They’ve put me in touch with their local leader and we’ve had a talk on the phone in which I described the situation again. He said one possible outcome is that they will be moved  to a different designated area but also assured me that the vendor’s have never lost a case in court. 
+He told me the least I could do is print some documents he would share with me and give it to the vendors. I agreed.</p>
+
+<p>Later that day I met Badal again. He had got his redi back from the authorities some time back but wasn’t using it anymore. He had got a new motor-based sugarcane juicer. It was quite an upgrade and he was working later than usual. I told him about the update with the NGO. This time he more strongly voiced his concern. He said he doesn’t want to be targeted. He doesn’t want to lose his goods again. He is fine with the status quo. 
+And I am starting to believe, he is right.</p>
+
+<hr />
+
+<p>PS.</p>
+
+<p>Things I need to follow up on:
+Read the bill thoroughly to see what it says about designated zones and are their any guiding principles behind them?
+See if the equilibrium can be portrayed as a game theoretic payoff matrix.</p>
+
+<p>Equilibrium</p>]]></content><author><name></name></author><category term="blog" /><category term="Government" /><category term="policy" /><summary type="html"><![CDATA[I work in an industrial estate where a lot of factories and companies are stacked next to each other. Ranging from factory workers and tailors to customer representatives, software developers and management professionals- people with very varied pay scales call this place their professional home. Inspite of the high diversity in payscales and collar colors, almost everyone working in here has one thing in common - street food.]]></summary></entry></feed>
